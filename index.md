@@ -1,7 +1,7 @@
 ## Introduction
 Hello! My name is ***Yvanna Cardenas***! I am a young programmer who is passionate about learning. Here is a _glimpse_ into who I am.
 
-![Me](me.jpg)
+<img src="me.jpg" width=200> <br>
 > "If you can't make a mistake, you can't make anything." - Marva Collins
 
 The first line I ever learned to code:
@@ -18,7 +18,7 @@ public static void main(String[] args){
 - Javacript
 
 ## Projects 
-1. Explore SZA - Interactive project that allows use to explore artist SZA's album CTRL
+1. Explore SZA - Interactive project that allows user to explore artist SZA's album CTRL
 2. Plan It - Program that allows users to plan a trip to the music festival Coachella. Features include sheduling and formation of friend groups.
 
 ### Have you read everything?
